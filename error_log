@@ -1,0 +1,38 @@
+[31-Oct-2017 02:58:10 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/dharm/public_html/gms/application/controllers/admin/Formdata.php on line 14
+[31-Oct-2017 02:58:34 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/dharm/public_html/gms/application/controllers/admin/Formdata.php on line 14
+[31-Oct-2017 13:28:39 Asia/Kolkata] PHP Fatal error:  Call to a member function record_count() on a non-object in /home/dharm/public_html/gms/application/controllers/admin/Formdata.php on line 17
+[31-Oct-2017 13:29:39 Asia/Kolkata] PHP Fatal error:  Call to undefined method FormdataModel::record_count() in /home/dharm/public_html/gms/application/controllers/admin/Formdata.php on line 17
+[31-Oct-2017 13:31:59 Asia/Kolkata] PHP Fatal error:  Call to undefined method FormdataModel::record_count() in /home/dharm/public_html/gms/application/controllers/admin/Formdata.php on line 17
+[31-Oct-2017 13:32:02 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_users() on a non-object in /home/dharm/public_html/gms/application/controllers/admin/Formdata.php on line 24
+[31-Oct-2017 13:32:02 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_users() on a non-object in /home/dharm/public_html/gms/application/controllers/admin/Formdata.php on line 24
+[31-Oct-2017 13:32:02 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_users() on a non-object in /home/dharm/public_html/gms/application/controllers/admin/Formdata.php on line 24
+[31-Oct-2017 13:32:03 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_users() on a non-object in /home/dharm/public_html/gms/application/controllers/admin/Formdata.php on line 24
+[31-Oct-2017 13:32:05 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_users() on a non-object in /home/dharm/public_html/gms/application/controllers/admin/Formdata.php on line 24
+[31-Oct-2017 13:32:46 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_users() on a non-object in /home/dharm/public_html/gms/application/controllers/admin/Formdata.php on line 24
+[31-Oct-2017 13:32:46 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_users() on a non-object in /home/dharm/public_html/gms/application/controllers/admin/Formdata.php on line 24
+[31-Oct-2017 13:32:50 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_users() on a non-object in /home/dharm/public_html/gms/application/controllers/admin/Formdata.php on line 24
+[06-Dec-2017 05:03:50 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/dharm/public_html/gms/application/controllers/admin/Email.php on line 15
+[06-Dec-2017 05:36:49 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home/dharm/public_html/gms/application/controllers/admin/Email.php on line 27
+[06-Dec-2017 05:37:12 America/Chicago] PHP Parse error:  syntax error, unexpected '$fname' (T_VARIABLE) in /home/dharm/public_html/gms/application/controllers/admin/Email.php on line 27
+[06-Dec-2017 05:37:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$fname' (T_VARIABLE) in /home/dharm/public_html/gms/application/controllers/admin/Email.php on line 27
+[06-Dec-2017 05:37:49 America/Chicago] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/dharm/public_html/gms/application/controllers/admin/Email.php on line 27
+[06-Dec-2017 05:38:07 America/Chicago] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/dharm/public_html/gms/application/controllers/admin/Email.php on line 27
+[06-Dec-2017 05:38:10 America/Chicago] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/dharm/public_html/gms/application/controllers/admin/Email.php on line 27
+[06-Dec-2017 05:40:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/dharm/public_html/gms/application/controllers/admin/Email.php on line 27
+[06-Dec-2017 05:40:20 America/Chicago] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/dharm/public_html/gms/application/controllers/admin/Email.php on line 28
+[06-Dec-2017 05:40:39 America/Chicago] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/dharm/public_html/gms/application/controllers/admin/Email.php on line 28
+[06-Dec-2017 05:40:42 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/dharm/public_html/gms/application/controllers/admin/Email.php on line 27
+[06-Dec-2017 05:41:14 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/dharm/public_html/gms/application/controllers/admin/Email.php on line 27
+[06-Dec-2017 05:41:19 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/dharm/public_html/gms/application/controllers/admin/Email.php on line 26
+[06-Dec-2017 05:41:30 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/dharm/public_html/gms/application/controllers/admin/Email.php on line 26
+[06-Dec-2017 05:55:11 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dharm/public_html/gms/application/controllers/admin/Email.php on line 26
+[06-Dec-2017 05:55:43 America/Chicago] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING) in /home/dharm/public_html/gms/application/controllers/admin/Email.php on line 26
+[06-Dec-2017 05:56:10 America/Chicago] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING) in /home/dharm/public_html/gms/application/controllers/admin/Email.php on line 26
+[07-Dec-2017 04:41:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home/dharm/public_html/gms/application/controllers/admin/Email.php on line 27
+[07-Dec-2017 04:46:55 America/Chicago] PHP Parse error:  syntax error, unexpected ''email :'' (T_CONSTANT_ENCAPSED_STRING) in /home/dharm/public_html/gms/application/controllers/admin/Email.php on line 27
+[10-Mar-2018 07:21:31 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/phpguysi/public_html/gms/application/controllers/Login.php on line 54
+[11-Mar-2018 18:25:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/phpguysi/public_html/gms/application/views/docRegistrationView.php on line 46
+[11-Mar-2018 08:16:31 America/Chicago] PHP Parse error:  syntax error, unexpected ''login_typ' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/phpguysi/public_html/gms/application/controllers/Login.php on line 109
+[11-Mar-2018 18:54:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/phpguysi/public_html/gms/application/views/loginView.php on line 80
+[11-Mar-2018 18:54:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/phpguysi/public_html/gms/application/views/loginView.php on line 80
+[12-Mar-2018 20:35:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/phpguysi/public_html/gms/application/views/docRegistrationView.php on line 45

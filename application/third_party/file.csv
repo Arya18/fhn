@@ -1,0 +1,6 @@
+"id","user_name","user_email","user_username","user_password","status"
+"1","Anil Dubey","anil@e-mediasolutions.in","admin","pass@123","enable"
+"2","Amit","anil@e-mediasolutions.in","amit","pass@123","enable"
+"3","BKS","a@b.com","bkss","123","disable"
+"4","Neeraj","neeraj@gmail.com","neeraj","pass@123","enable"
+"5","Ajeet","ajeet@b.com","ajeet","pass@123","enable"
